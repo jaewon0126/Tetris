@@ -41,10 +41,10 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(0, 0);
+            AutoScaleDimensions = new SizeF(9F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(1000, 750);
+            ClientSize = new Size(935, 750);
             Controls.Add(panel1);
             Name = "Form1";
             Text = "Form1";
